@@ -1,0 +1,190 @@
+[21-Feb-2024 05:14:16 UTC] PHP Notice:  Undefined variable: item in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 8
+[21-Feb-2024 05:31:02 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:34:40 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:36:13 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:36:13 UTC] PHP Notice:  Undefined variable: cv in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 87
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:37:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:37:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:37:42 UTC] PHP Notice:  curl_exec(): read of 8192 bytes failed with errno=21 Is a directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 67
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:40:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:40:25 UTC] PHP Notice:  curl_exec(): read of 8192 bytes failed with errno=21 Is a directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 67
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:41:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:41:14 UTC] PHP Notice:  curl_exec(): read of 8192 bytes failed with errno=21 Is a directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 67
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:42:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:42:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:42:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:42:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:43:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:43:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:43:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:43:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:43:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Undefined index: codigo in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 6
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 11
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 12
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 15
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 16
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 17
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 18
+[21-Feb-2024 05:43:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 19
+[21-Feb-2024 05:43:37 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:43:53 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:44:02 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:44:13 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:45:48 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:45:48 UTC] PHP Notice:  Undefined variable: cv in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 89
+[21-Feb-2024 05:45:48 UTC] PHP Warning:  curl_setopt_array(): Filename cannot be empty in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 94
+[21-Feb-2024 05:46:24 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:47:04 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:48:08 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:48:38 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:49:21 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:49:50 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 05:50:20 UTC] PHP Notice:  Undefined index: idplanta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 13
+[21-Feb-2024 23:21:35 UTC] PHP Warning:  fopen(../plantas/1/tareas/35/1702/anexoC.pdf/20120560.pdf): failed to open stream: No such file or directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 43
+[21-Feb-2024 23:21:35 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[21-Feb-2024 23:21:38 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 106
+[24-Feb-2024 20:07:09 UTC] PHP Notice:  Undefined variable: FileHandle in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 98
+[24-Feb-2024 20:08:35 UTC] PHP Notice:  Undefined variable: ubiacion in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:08:35 UTC] PHP Notice:  Undefined variable: respuesta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:08:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:08:35 UTC] PHP Warning:  fopen(/.pdf): failed to open stream: Permission denied in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:08:35 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 101
+[24-Feb-2024 20:08:38 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 108
+[24-Feb-2024 20:16:47 UTC] PHP Notice:  Undefined variable: ubiacion in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:16:47 UTC] PHP Notice:  Undefined variable: respuesta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:16:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:16:47 UTC] PHP Warning:  fopen(/.pdf): failed to open stream: Permission denied in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:16:47 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 101
+[24-Feb-2024 20:16:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 108
+[24-Feb-2024 20:17:06 UTC] PHP Notice:  Undefined variable: ubiacion in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:06 UTC] PHP Notice:  Undefined variable: respuesta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:06 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:06 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 101
+[24-Feb-2024 20:17:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 108
+[24-Feb-2024 20:17:30 UTC] PHP Notice:  Undefined variable: ubiacion in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:30 UTC] PHP Notice:  Undefined variable: respuesta in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:30 UTC] PHP Warning:  fopen(/.pdf): failed to open stream: Permission denied in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 3
+[24-Feb-2024 20:17:30 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 101
+[24-Feb-2024 20:17:33 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 108
+[24-Feb-2024 20:22:47 UTC] PHP Warning:  curl_setopt_array(): the provided file handle is not writable in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 20:23:28 UTC] PHP Notice:  Undefined variable: FileHandle in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 97
+[24-Feb-2024 20:24:15 UTC] PHP Warning:  curl_setopt_array(): the provided file handle is not writable in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 20:34:19 UTC] PHP Warning:  curl_setopt_array(): the provided file handle is not writable in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 21:03:39 UTC] PHP Warning:  curl_setopt_array(): the provided file handle is not writable in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 21:15:40 UTC] PHP Warning:  fopen(../plantas/1/tareas/46/1703/45619671.pdf): failed to open stream: No such file or directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 43
+[24-Feb-2024 21:15:40 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 21:15:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 106
+[24-Feb-2024 21:16:22 UTC] PHP Warning:  fopen(../plantas/1/tareas/46/1703/45619671.pdf): failed to open stream: No such file or directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 43
+[24-Feb-2024 21:16:22 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 21:16:25 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 106
+[24-Feb-2024 21:17:09 UTC] PHP Warning:  fopen(../plantas/1/tareas/46/1704/43203069.pdf): failed to open stream: No such file or directory in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 43
+[24-Feb-2024 21:17:09 UTC] PHP Warning:  curl_setopt_array(): supplied argument is not a valid File-Handle resource in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 99
+[24-Feb-2024 21:17:11 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/xjmzjbxopuqv/public_html/template/reporte/merge_pdf/processor.php on line 106

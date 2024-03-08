@@ -1,0 +1,24 @@
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Undefined offset: 0 in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 11
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 11
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Undefined offset: 0 in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 12
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 12
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Undefined offset: 0 in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 13
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 13
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Undefined offset: 0 in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 14
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 14
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Undefined offset: 0 in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 15
+[21-Feb-2024 05:12:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 15
+[21-Feb-2024 05:12:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xjmzjbxopuqv/public_html/template/reporte/pdflistaPersonal.php on line 113
+[22-Feb-2024 22:58:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xjmzjbxopuqv/public_html/template/reporte/pdflistaPersonal.php on line 113
+[23-Feb-2024 02:23:18 UTC] PHP Notice:  Undefined index: C in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/dompdf/dompdf/lib/Cpdf.php on line 1085
+[23-Feb-2024 02:23:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/dompdf/dompdf/lib/Cpdf.php on line 1085
+[23-Feb-2024 02:23:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/phenx/php-font-lib/src/FontLib/Table/Type/cmap.php on line 169
+[23-Feb-2024 02:23:18 UTC] PHP Warning:  max(): Array must contain at least one element in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/dompdf/dompdf/lib/Cpdf.php on line 1209
+[23-Feb-2024 02:23:39 UTC] PHP Notice:  Undefined index: C in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/dompdf/dompdf/lib/Cpdf.php on line 1085
+[23-Feb-2024 02:23:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/dompdf/dompdf/lib/Cpdf.php on line 1085
+[23-Feb-2024 02:23:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/phenx/php-font-lib/src/FontLib/Table/Type/cmap.php on line 169
+[23-Feb-2024 02:23:39 UTC] PHP Warning:  max(): Array must contain at least one element in /home/xjmzjbxopuqv/public_html/template/reporte/dompdf/vendor/dompdf/dompdf/lib/Cpdf.php on line 1209
+[24-Feb-2024 20:05:18 UTC] PHP Warning:  include(./processed_documents/processor.php): failed to open stream: No such file or directory in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 37
+[24-Feb-2024 20:05:18 UTC] PHP Warning:  include(): Failed opening './processed_documents/processor.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 37
+[24-Feb-2024 20:05:25 UTC] PHP Warning:  include(./processed_documents/processor.php): failed to open stream: No such file or directory in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 37
+[24-Feb-2024 20:05:25 UTC] PHP Warning:  include(): Failed opening './processed_documents/processor.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/xjmzjbxopuqv/public_html/template/reporte/listaPersonal.php on line 37

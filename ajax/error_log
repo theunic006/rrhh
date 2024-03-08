@@ -1,0 +1,11 @@
+[24-Feb-2024 20:44:26 UTC] PHP Notice:  Undefined variable: idPersonalPdf in /home/xjmzjbxopuqv/public_html/template/ajax/personal.ajax.php on line 42
+[24-Feb-2024 20:44:26 UTC] PHP Notice:  Undefined property: AjaxPersonales::$ in /home/xjmzjbxopuqv/public_html/template/ajax/personal.ajax.php on line 42
+[24-Feb-2024 20:45:24 UTC] PHP Notice:  Undefined variable: idPersonalPdf in /home/xjmzjbxopuqv/public_html/template/ajax/personal.ajax.php on line 42
+[24-Feb-2024 20:45:24 UTC] PHP Notice:  Undefined property: AjaxPersonales::$ in /home/xjmzjbxopuqv/public_html/template/ajax/personal.ajax.php on line 42
+[24-Feb-2024 20:45:24 UTC] PHP Notice:  Undefined variable: idPersonalPdf in /home/xjmzjbxopuqv/public_html/template/ajax/personal.ajax.php on line 44
+[24-Feb-2024 21:03:36 UTC] PHP Notice:  Undefined index: ididtarea in /home/xjmzjbxopuqv/public_html/template/ajax/datatable-tarea.ajax.php on line 110
+[24-Feb-2024 21:03:36 UTC] PHP Notice:  Undefined index: ididplanta in /home/xjmzjbxopuqv/public_html/template/ajax/datatable-tarea.ajax.php on line 110
+[24-Feb-2024 21:03:36 UTC] PHP Notice:  Undefined index: ididtarea in /home/xjmzjbxopuqv/public_html/template/ajax/datatable-tarea.ajax.php on line 110
+[24-Feb-2024 21:03:36 UTC] PHP Notice:  Undefined index: ididplanta in /home/xjmzjbxopuqv/public_html/template/ajax/datatable-tarea.ajax.php on line 110
+[24-Feb-2024 21:03:36 UTC] PHP Notice:  Undefined index: ididtarea in /home/xjmzjbxopuqv/public_html/template/ajax/datatable-tarea.ajax.php on line 110
+[24-Feb-2024 21:03:36 UTC] PHP Notice:  Undefined index: ididplanta in /home/xjmzjbxopuqv/public_html/template/ajax/datatable-tarea.ajax.php on line 110

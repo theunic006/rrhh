@@ -1,0 +1,26 @@
+{
+    "codeToName": [],
+    "isUnicode": true,
+    "EncodingScheme": "FontSpecific",
+    "FontName": "Arial Narrow Special G1",
+    "FullName": "Arial Narrow Special G1",
+    "Version": "Version 1.03",
+    "PostScriptName": "ArialNarrowSpecialG1",
+    "Weight": "Medium",
+    "ItalicAngle": "0",
+    "IsFixedPitch": "false",
+    "UnderlineThickness": "50",
+    "UnderlinePosition": "-75",
+    "FontHeightOffset": "0",
+    "Ascender": "1127",
+    "Descender": "-378",
+    "FontBBox": [
+        "-39",
+        "-210",
+        "820",
+        "1009"
+    ],
+    "CIDtoGID_Compressed": true,
+    "CIDtoGID": "eJztwTEBAAAAwqD1T+1hDaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbgAeAAE=",
+    "_version_": 6
+}

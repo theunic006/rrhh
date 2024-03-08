@@ -1,0 +1,22 @@
+[05-Mar-2024 23:06:53 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/autorizacion-alpamarca.php on line 74
+[05-Mar-2024 23:06:53 UTC] PHP Notice:  Undefined variable: fcelular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfautorizacion-alpamarca.php on line 681
+[05-Mar-2024 23:06:56 UTC] PHP Notice:  Undefined variable: firma in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 10
+[05-Mar-2024 23:06:56 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 12
+[05-Mar-2024 23:06:56 UTC] PHP Notice:  Undefined variable: huella in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 15
+[05-Mar-2024 23:06:56 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 17
+[05-Mar-2024 23:06:56 UTC] PHP Notice:  Undefined variable: residentee in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 20
+[05-Mar-2024 23:06:56 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 22
+[05-Mar-2024 23:06:59 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoB.php on line 77
+[05-Mar-2024 23:07:02 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoC-alpamarca.php on line 77
+[05-Mar-2024 23:15:39 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/autorizacion-alpamarca.php on line 74
+[05-Mar-2024 23:15:39 UTC] PHP Notice:  Undefined variable: fcelular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfautorizacion-alpamarca.php on line 681
+[05-Mar-2024 23:15:42 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoV-alpamarca.php on line 74
+[05-Mar-2024 23:15:42 UTC] PHP Notice:  Undefined variable: unidadproduccion in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 601
+[05-Mar-2024 23:15:45 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoB.php on line 77
+[05-Mar-2024 23:15:48 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoC-alpamarca.php on line 77
+[05-Mar-2024 23:16:11 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/autorizacion-alpamarca.php on line 74
+[05-Mar-2024 23:16:11 UTC] PHP Notice:  Undefined variable: fcelular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfautorizacion-alpamarca.php on line 681
+[05-Mar-2024 23:16:14 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoV-alpamarca.php on line 74
+[05-Mar-2024 23:16:14 UTC] PHP Notice:  Undefined variable: unidadproduccion in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/pdfanexoV-alpamarca.php on line 601
+[05-Mar-2024 23:16:17 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoB.php on line 77
+[05-Mar-2024 23:16:20 UTC] PHP Notice:  Undefined index: fcalular in /home/xjmzjbxopuqv/public_html/template/reporte/plantas/34/anexoC-alpamarca.php on line 77

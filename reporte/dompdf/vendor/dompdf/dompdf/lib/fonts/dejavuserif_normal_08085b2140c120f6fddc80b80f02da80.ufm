@@ -1,0 +1,22 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Arial® is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.
+FontName Arial Narrow Special G1
+FontSubfamily Regular
+UniqueID Monotype - Arial Narrow Special G1 Regular
+FullName Arial Narrow Special G1
+Version Version 1.03
+PostScriptName ArialNarrowSpecialG1
+Trademark Arial® is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 1127
+Descender -378
+FontBBox -39 -210 820 1009
+EndFontMetrics
