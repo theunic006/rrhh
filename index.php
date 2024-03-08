@@ -1,7 +1,7 @@
 <?php
 
 /*=============================================
-Mostrar errores
+Mostrar errores holala
 =============================================*/
 
 ini_set('display_errors', 1);
